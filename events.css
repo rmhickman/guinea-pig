@@ -1,0 +1,29 @@
+.blue {
+	color: blue;
+}
+
+.tfont {
+	font-size: 55px;
+}
+
+.textBorder {
+	border: solid gray 5px;
+	background-color: black;
+}
+
+.roundMe {
+	border-radius: 20px;
+}
+
+#bold {
+	font-weight: bold; 
+}
+
+#boldItalic {
+	font-style: italic;
+	font-weight: bold;
+}
+
+#buttons {
+	display: block;
+}
